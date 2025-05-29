@@ -1,13 +1,11 @@
 # Blockcast-Node-Setup-
 ![image](https://github.com/user-attachments/assets/e788870e-63da-4de0-bd49-df3e90125b13)
 
-[Link to previous Guide](https://x.com/mztacat/status/1846572188574302374?t=G0_H-g6WTnSn2NMIDehTYw&s=19)
-
 # Setting up NODE 
 ### I already have a node running so I just used it to run this (Killing two birds with a stone) 
 
 ------
-### Access Platform [HERE](https://app.blockcast.network?referral-code=c8uIyh)
+### Access Platform [HERE](https://app.blockcast.network?referral-code=FLoO01)
 -------
  * Signup with email on Blockcast
  * Connect spare Wallet (SOL)
